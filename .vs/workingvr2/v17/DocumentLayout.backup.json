@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC546134-5E93-88D4-BE3F-9301D0AA9454}|Assembly-CSharp.csproj|c:\\users\\hp.laptop-o043n9k7\\workingvr2\\assets\\scripts\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC546134-5E93-88D4-BE3F-9301D0AA9454}|Assembly-CSharp.csproj|c:\\users\\hp.laptop-o043n9k7\\workingvr2\\assets\\scripts\\leaderboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC546134-5E93-88D4-BE3F-9301D0AA9454}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leaderboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC546134-5E93-88D4-BE3F-9301D0AA9454}|Assembly-CSharp.csproj|C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\assets\\scripts\\xrmovementlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC546134-5E93-88D4-BE3F-9301D0AA9454}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\xrmovementlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC546134-5E93-88D4-BE3F-9301D0AA9454}|Assembly-CSharp.csproj|C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\assets\\scripts\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC546134-5E93-88D4-BE3F-9301D0AA9454}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,27 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LeaderboardManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\Assets\\scripts\\LeaderboardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LeaderboardManager.cs",
+              "ToolTip": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\Assets\\scripts\\LeaderboardManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\LeaderboardManager.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:40:02.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XRMovementLock.cs",
+              "DocumentMoniker": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\Assets\\scripts\\XRMovementLock.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\XRMovementLock.cs",
+              "ToolTip": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\Assets\\scripts\\XRMovementLock.cs",
+              "RelativeToolTip": "Assets\\scripts\\XRMovementLock.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA+wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:37:49.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "puzzlemanager.cs",
               "DocumentMoniker": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\Assets\\scripts\\puzzlemanager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\puzzlemanager.cs",
               "ToolTip": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\Assets\\scripts\\puzzlemanager.cs",
               "RelativeToolTip": "Assets\\scripts\\puzzlemanager.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAswM8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEBAAAAAAAAAAAuwC8BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T13:16:22.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EyeController.cs",
               "DocumentMoniker": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\Assets\\scripts\\EyeController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\EyeController.cs",
               "ToolTip": "C:\\Users\\HP.LAPTOP-O043N9K7\\workingvr2\\Assets\\scripts\\EyeController.cs",
               "RelativeToolTip": "Assets\\scripts\\EyeController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T09:54:19.28Z"
+              "WhenOpened": "2025-09-06T09:54:19.28Z",
+              "EditorCaption": ""
             }
           ]
         }
